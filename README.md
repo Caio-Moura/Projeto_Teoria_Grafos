@@ -45,7 +45,7 @@ Cesar Luiz da Silva (https://github.com/Luizcs-lab).
 
 ## ▶️ Como executar
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/Luizcs-lab/Projeto_Teoria_Grafos
 cd mogi_caminhos_app
 python -m venv venv
 venv\Scripts\activate
