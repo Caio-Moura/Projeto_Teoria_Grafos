@@ -40,6 +40,8 @@ Cesar Luiz da Silva (https://github.com/Luizcs-lab).
 
 ## 📸 Demonstração
 
+<img width="1162" height="1060" alt="imagem_layout_final" src="https://github.com/user-attachments/assets/b7c00fb5-f0e5-4c97-a635-f2fa5245ccef" />
+
 
 ## ▶️ Como executar
 ```bash
