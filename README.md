@@ -1,7 +1,9 @@
 # 🚀 Roteador Inteligente para Transporte de Órgãos
 
-👥 Equipe
-Caio Moura (https://github.com/Caio-Moura).
+## 👥 Equipe
+
+Caio Moura (https://github.com/Caio-Moura)
+
 Cesar Luiz da Silva (https://github.com/Luizcs-lab)
 
 
