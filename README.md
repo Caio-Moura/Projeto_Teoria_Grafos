@@ -1,12 +1,5 @@
 # 🚀 Roteador Inteligente para Transporte de Órgãos
 
-## 👥 Equipe
-
-Caio Moura (https://github.com/Caio-Moura)
-
-Cesar Luiz da Silva (https://github.com/Luizcs-lab)
-
-
 ## 🏥 Sobre o projeto
 Sistema desenvolvido para otimizar rotas entre hospitais em Mogi das Cruzes, focado na redução do tempo de deslocamento em cenários críticos de transplante.
 
@@ -32,6 +25,12 @@ Aplicação que modela a malha urbana como um grafo e utiliza algoritmos de cami
 
 ## 🧩 Arquitetura
 Projeto estruturado em padrão MVC, garantindo organização, escalabilidade e separação de responsabilidades.
+
+## 👥 Equipe
+
+Caio Moura (https://github.com/Caio-Moura).
+
+Cesar Luiz da Silva (https://github.com/Luizcs-lab).
 
 ## 👨‍💻 Minha contribuição
 - Implementação da lógica de cálculo de rotas
